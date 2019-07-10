@@ -1,0 +1,10 @@
+C:\cs320\Diameter\Diameter\bin\Debug\Diameter.exe.config
+C:\cs320\Diameter\Diameter\bin\Debug\Diameter.exe
+C:\cs320\Diameter\Diameter\bin\Debug\Diameter.pdb
+C:\cs320\Diameter\Diameter\obj\Debug\Diameter.csprojAssemblyReference.cache
+C:\cs320\Diameter\Diameter\obj\Debug\Diameter.csproj.CoreCompileInputs.cache
+C:\cs320\Diameter\Diameter\obj\Debug\Diameter.exe
+C:\cs320\Diameter\Diameter\obj\Debug\Diameter.pdb
+C:\cs320\Diameter\Diameter\bin\Debug\System.ValueTuple.dll
+C:\cs320\Diameter\Diameter\bin\Debug\System.ValueTuple.xml
+C:\cs320\Diameter\Diameter\obj\Debug\Diameter.csproj.CopyComplete

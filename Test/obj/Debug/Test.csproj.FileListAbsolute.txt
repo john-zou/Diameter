@@ -1,0 +1,17 @@
+C:\cs320\Diameter\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\cs320\Diameter\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\cs320\Diameter\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\cs320\Diameter\Test\bin\Debug\Test.dll
+C:\cs320\Diameter\Test\bin\Debug\Test.pdb
+C:\cs320\Diameter\Test\bin\Debug\Diameter.exe
+C:\cs320\Diameter\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\cs320\Diameter\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\cs320\Diameter\Test\bin\Debug\Diameter.pdb
+C:\cs320\Diameter\Test\bin\Debug\Diameter.exe.config
+C:\cs320\Diameter\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\cs320\Diameter\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\cs320\Diameter\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\cs320\Diameter\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\cs320\Diameter\Test\obj\Debug\Test.csproj.CopyComplete
+C:\cs320\Diameter\Test\obj\Debug\Test.dll
+C:\cs320\Diameter\Test\obj\Debug\Test.pdb
